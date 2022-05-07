@@ -8,8 +8,8 @@ Atividades feito em C++ realizados no curso de Desenvolvimento de Sistema.
 
 *Instruções básicas
 
-1. Nome do Fazendeiro: xx | Tipo de Pulverização: x | Tamanho da Área : x
-O fazendeiro xx terá um custo de R$
+1. Nome do Fazendeiro: x | Tipo de Pulverização: x | Tamanho da Área : x
+O fazendeiro x terá um custo de R$
 
 2. Ler o nome e o salário bruto de N funcionários, onde N deverá ser lido no início do programa.
 Para cada funcionário faça:
