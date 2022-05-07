@@ -1,7 +1,8 @@
-# ExerciciosComC-
+# ExerciciosComC++
 Atividades em C++
 
 C++ Activities done in the System Development class.
+
 Atividades feito em C++ realizados no curso de Desenvolvimento de Sistema.
 
 
