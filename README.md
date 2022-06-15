@@ -91,3 +91,22 @@ Atividades feito em C++ pelo Dev-C++ realizados no curso de Desenvolvimento de S
 
 
 **Pasta: funcao**
+  1. Função 1_areas
+
+       CÁLCULO DO QUADRADO
+       
+       CÁLCULO DO TRIÂNGULO
+
+       CÁLCULO DA CIRCUNFERÊNCIA
+       
+       
+          MENU PRINCIPAL
+          1-Quadrado
+          2-Triângulo
+          3-Circunferência
+          4-Sair 
+
+
+  2. Função 2_variávelGlobal
+
+       Entendendo as variáveis globais
