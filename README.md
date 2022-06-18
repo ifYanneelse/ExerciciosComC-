@@ -1,10 +1,5 @@
 # ExerciciosComCpp
 
-C++ Activities on Dev-C++ done in the System Development class.
-
-Atividades feito em C++ pelo Dev-C++ realizados no curso de Desenvolvimento de Sistema.
-
-
 
 **Pasta: ifwhilemouf**
 
@@ -110,3 +105,8 @@ Atividades feito em C++ pelo Dev-C++ realizados no curso de Desenvolvimento de S
   2. Função 2_variávelGlobal
 
        Entendendo as variáveis globais
+       
+ <br>
+ 
+ ##### C++ Activities on Dev-C++ done in the System Development class.
+- Atividades feito em C++ pelo Dev-C++ realizados no curso de Desenvolvimento de Sistema.
